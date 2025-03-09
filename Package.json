@@ -1,0 +1,18 @@
+{
+  "name": "free-base-telegram",
+  "description": "Free Base Telegram by @Primrose_Lotus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.6.0"
+  }
+}
